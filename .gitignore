@@ -1,6 +1,5 @@
 coverage
 docs/gen
-node_modules/*
 fabric-client/node_modules/*
 fabric-ca-client/node_modules/*
 fabric-ca-client/lib/api.js
